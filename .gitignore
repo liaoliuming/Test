@@ -1,0 +1,24 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/MyParking/MyParking.BL/bin/Debug
+/MyParking/MyParking.BL/obj/Debug
+/MyParking/MyParking.DL/bin/Debug
+/MyParking/MyParking.DL/obj/Debug
+/MyParking/MyParking.DTO/bin/Debug
+/MyParking/MyParking.DTO/obj/Debug
+/MyParking/MyParking.UnitTest/bin
+/MyParking/MyParking.UnitTest/obj
+/MyParking/MyParking.xUnit/bin
+/MyParking/MyParking.xUnit/obj
+/MyParking/MyParking.xUnitTest/bin/Debug
+/MyParking/MyParking.xUnitTest/obj/Debug
+/MyParking/.vs/MyParking
+*.user
+/MyParking/TestResults
+/MyParking/MyParking.BL/obj/Release
+/MyParking/MyParking.DL/obj/Release
+/MyParking/MyParking.DTO/obj/Release
+/MyParking/MyParking.xUnitTest/obj
+/.vs
